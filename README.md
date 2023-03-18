@@ -1,10 +1,10 @@
 # Jogo da velha em Java!
 ### Projeto para estudos de Java
-Projeto para estudo, implementado jogo da velha.
+Projeto para estudo, implementando jogo da velha.
 
 ---------------------------------------
 
-Para jogar é preciso marcar um local através das coordernadas (considerando o ponto central do jogo da velha como:
+Para jogar é preciso marcar um local através das coordernadas:
 
 <pre>
  nw | n | ne 
