@@ -9,7 +9,7 @@ Para jogar é preciso marcar um local através das coordernadas:
 <pre>
  nw | n | ne 
 ----|---|----
-  w | o | l  
+  w | o | e  
 ----|---|----
  sw | s | se 
 </pre>
@@ -21,7 +21,7 @@ Para jogar é preciso marcar um local através das coordernadas:
 - Boas práticas.
 
 ### Conteúdo:
-- Jogo da velha;
+- Jogo da velha.
 
 ### Bugs (para lembrar de consertar XD):
-- Dá para marcar um lugar já marcado;
+- Dá para marcar um lugar já marcado.
